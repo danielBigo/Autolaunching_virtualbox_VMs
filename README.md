@@ -13,6 +13,7 @@ Verion de python:
 ## Dependance :
 - `pywin32`
 - `VirtualBox SDK : vboxapisetup.py`
+- `VirtualBox 6.1.2+`
 
 ## Installation :
 
