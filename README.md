@@ -1,4 +1,4 @@
-## Demarrer automatiquement une Machine virtuelle sur VirtualBox:
+## VirtualBox VMS AUTOLAUNCHER:
 Ce script vous permettra d'automatiser le démarrage de vos différentes machines virtuelles sans avoir à vous soucier du démarrage manuel de VirtualBox.
 
 ## Contenu:
