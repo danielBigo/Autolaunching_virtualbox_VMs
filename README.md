@@ -1,18 +1,18 @@
-## DEMARRER AUTOMATIQUEMENT VIRTUALBOX:
-Ce script vous permettra d'automatiser le demarrage de vos differentes machines virtuelles sans avoir a ce soucier du demarrage manuel de VirtualBox.
+## Demarrer automatiquement une Machine virtuelle sur VirtualBox:
+Ce script vous permettra d'automatiser le démarrage de vos différentes machines virtuelles sans avoir à vous soucier du démarrage manuel de VirtualBox.
 
-## CONTENU:
+## Contenu:
 * [Technologie](#Technologie)
-* [Dependance](#Dependances)
+* [Dépendance](#Dépendances)
 * [Installation](#Installation)
 
 ## Technologie :
-Verion de python:
+Verion du python:
 - ### Python3
 
-## Dependance :
+## Dépendance :
 - `pywin32`
-- `VirtualBox SDK : vboxapisetup.py`
+- `vboxapisetup.py( virtualbox SDK)`
 - `VirtualBox 6.1.2+`
 
 ## Installation :
