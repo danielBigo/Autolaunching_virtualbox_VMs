@@ -2,12 +2,12 @@
 Ce script vous permettra d'automatiser le demarrage de vos differentes machines virtuelles sans avoir a ce soucier du demarrage manuel de VirtualBox.
 
 ## CONTENU:
-* [Dependance](#Dependances)
 * [Technologie](#Technologie)
+* [Dependance](#Dependances)
 * [Installation](#Installation)
 
 ## Technologie :
-Langage de programmation:
+Verion de python:
 - ### Python3
 
 ## Dependance :
